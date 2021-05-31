@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ar5jun
+- 👋 Hi, I’m Arjun
 - 👀 I’m interested in machine learning and python programming
 - 🌱 I’m currently learning data science and machine learning algos !!
 - 📫 How to reach me : @linkedin.com/in/arjun-kb-61a8321b0
