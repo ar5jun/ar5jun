@@ -2,6 +2,7 @@
 - 👀 I’m interested in machine learning and python programming
 - 🌱 Currently learning data science and machine learning algos !!
 - 📫 How to reach me : @linkedin.com/in/arjun-kb-61a8321b0
+- 📫 email : arjunkb15@gmail.com
 
 <!---
 ar5jun/ar5jun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
